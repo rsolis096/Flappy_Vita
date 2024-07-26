@@ -1,3 +1,5 @@
-Uses Font Cache avialable here: https://github.com/grimfang4/SDL_FontCache
+## A port of my SDL2 based Flappy Bird Clone - https://github.com/rsolis096/Flappy-Bird-Clone-CMPT-1267
 
-VPK available in releases.
+## Uses Font Cache: https://github.com/grimfang4/SDL_FontCache
+
+## VPK available in releases.
