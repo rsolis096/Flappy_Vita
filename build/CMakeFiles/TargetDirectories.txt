@@ -1,0 +1,6 @@
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/Flappy.dir
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/Flappy-velf.dir
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/Flappy.self-self.dir
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/Flappy.vpk-vpk.dir
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/edit_cache.dir
+/home/rds/psvita_projects/Flappy_Vita/build/CMakeFiles/rebuild_cache.dir
